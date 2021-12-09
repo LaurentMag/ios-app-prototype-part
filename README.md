@@ -6,5 +6,11 @@ Started to developp an information save system with array.
 
 The system isnt fully completed as we only had 10 days to do everything.
 
-The modal navigation is functional, so the navigationlink.
-Somes rework would be necessary
+Functional 
+-modal navigation
+-navigationlink
+-extracted view usage
+-styling with swiftUI
+- database for logic operation
+
+Lot of rework would be necessary
