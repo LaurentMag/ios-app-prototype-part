@@ -11,6 +11,8 @@ Functional
 - navigationlink
 - extracted view usage
 - styling with swiftUI
-- database for logic operation
+- database's like for logic operation
 
-Lot of rework would be necessary
+licence : CC-BY-NC
+
+
